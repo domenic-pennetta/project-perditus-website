@@ -1,2 +1,2 @@
 # project-perditus-website
-Repository for my speculative biology project.
+Repository for my speculative biology project's website.
