@@ -128,6 +128,18 @@ img {
     border-width: 3px;
 }
 
+.figure-text-2 {
+    font-family: djv-reg;
+    letter-spacing: .5px;
+    font-size: 14px;
+    line-height: 30px;
+    padding: 12px 26px;
+    border-style: solid;
+    border-color: rgb(155, 155, 155);
+    border-width: 3px;
+    margin: 25px 0px;
+}
+
 /*
 ------------------------------------
 ------------------------------------
@@ -303,6 +315,13 @@ h3 {
     margin: 40px 0px 12px 0px;
 }
 
+h4 {
+    font-family: djv-reg;
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin: 16px 0px 8px 0px;
+}
+
 p {
     font-family: djv-reg;
     letter-spacing: .5px;
@@ -331,6 +350,10 @@ hr {
 
 .hr-3 {
     margin: 5px 0px 18px 0px;
+}
+
+.hr-4 {
+    margin: 12px 0px;
 }
 
 .list-textbox {
@@ -537,6 +560,13 @@ MOBILE FORMAT:
         margin: 40px 0px 12px 0px;
     }
     
+    h4 {
+    font-family: djv-reg;
+    letter-spacing: 2px;
+    font-size: 14px;
+    margin: 16px 0px 6px 0px;
+    }
+    
     p {
         font-family: djv-reg;
         letter-spacing: .5px;
@@ -560,6 +590,10 @@ MOBILE FORMAT:
     
     .hr-3 {
         margin: 0px 0px 16px 0px;
+    }
+    
+   .hr-4 {
+        margin: 8px 0px;
     }
     
     .list-textbox {
