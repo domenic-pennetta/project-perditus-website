@@ -112,6 +112,26 @@ img {
     border-width: 0;
 }
 
+.img-borderless-2 {
+    margin: 32px 0px 32px 0px;
+    max-width: 45%;
+    height: auto;
+    border-style: none;
+    border-width: 0;
+}
+
+    @media only screen and (max-width: 1024px) {
+
+        .img-borderless-2 {
+            margin: 16px 0px 16px 0px;
+            max-width: 100%;
+            height: auto;
+            border-style: none;
+            border-width: 0;
+        }
+
+    }
+
 .image-center {
     text-align: center;
 }
