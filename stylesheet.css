@@ -497,6 +497,7 @@ MOBILE FORMAT:
 
     .organisim-gallery {
         display: inline-block;
+        text-align: center;
         margin: 0px auto;
         text-align: center;
     }
@@ -629,5 +630,29 @@ MOBILE FORMAT:
         padding: 3px 8px;
         text-align: left;
     }
+    
+    .figure-text {
+    font-family: djv-reg;
+    letter-spacing: .5px;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #dfdfdf;
+    padding: 10px 22px;
+    border-style: solid;
+    border-color: rgb(155, 155, 155);
+    border-width: 2px;
+}
+
+.figure-text-2 {
+    font-family: djv-reg;
+    letter-spacing: .5px;
+    font-size: 14px;
+    line-height: 30px;
+    padding: 12px 26px;
+    border-style: solid;
+    border-color: rgb(155, 155, 155);
+    border-width: 2px;
+    margin: 25px 0px;
+}
 
 }
