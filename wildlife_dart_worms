@@ -1,0 +1,142 @@
+<html>
+
+<heading>
+    <title>Wildlife | Dart Worms</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</heading>
+
+<body>
+    <div class="header-box">
+        <nav>
+            <h1>PROJECT PERDITUS</h1>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li class="nav-break">|</li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li class="nav-break">|</li>
+                <li><a href="world.html">WORLD</a></li>
+                <li class="nav-break">|</li>
+                <li><a href="wildlife.html">WILDLIFE</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <!-- Website Banner -->
+    <img class="banner" src="img/banner-2.jpg" width="100%" height="auto">
+    <img class="banner-mobile" src="img/banner-mobile-02.jpg" width="100%" height="auto">
+
+    <div class="body-container">
+        <h2>Introduction to Dart Worms</h2>
+        <hr class="hr-3">
+            <p>Dart worms are aquatic organisms that are worm-like, comprised of cylindrical spindly bodies with a bulbous mid segment. Aquatic specimens typically contain other key features that distinguish them from other worm-like animals, like a tail fin composed of membranous segments and a cephalized head region. Most dart worms have a sagittiform shape to their head which is where the name “dart” worm originates from, however their head regions take on many shapes. Aquatic dart worms spend the majority of their lives submerged in benthic soil. There they make tunnels, reproduce, create colonies, and consume sediment containing organic matter, detritus, and fallen marine snow.</p>
+            
+        <h2>Lifestyle and Habitat</h2>
+        <hr class="hr-3">
+            <p></p>
+            
+            <h3>Diet:</h3>
+                <p>Most species of dart worms are detrivores that ingest organic matter that has sunk below the ocean floor. The consumption and expulsion of the organic matter reintroduces the benthic region with much needed oxygen and minerals. This process is known as bioturbation and provides many beneficial services to the ecosystem. Due to a reliance on organic matter with little nutritional value dart worms have developed a more robust digestive system with glandular folds containing ciliated villi.</p>
+
+            <h3>Locomotion:</h3>
+                <p>Longitudinal muscles that stretch the entire length of the body extend and contract to move the animal forward. Many pores line the outer most surface of the epidermal tissue that excrete mucus, helping the dart worm glide through aquatic environments and loose sediment. The pointed tip of the auricle acts as a fulcrum that can pierce through hardened soils and assist with burrowing. Mucosal excretions contain binding agents that can harden soil around the body and strengthen the integrity of fabricated tunnels.</p>
+
+            <h3>Swimming</h3>
+                <p>Dart worm species inhabiting open ocean basins possess membranous tails used for swimming. These membranes or “tail fins” increase the surface area of water they push against, generating force to propel themselves through water. Although most dart worms are not entirly streamlined, the ability to swim sporadically can prove beneficial. When predators sieve the benthic soils looking to uproot colonies of dart worms, the startled and exposed worms can spring upwards to swim away. A cacophony of swimming worms can potentially confuse and overwhelm predators.</p>
+
+            <h3>Reproduction:</h3>
+                <p>Sputumcuticulids are hermaphroditic. They possess both male and female gonads. Mating occurs every 20–22 days when two or more worms are in the same vicinity. Proximity to other adults produces hormones that promote the production of gametes and facilitate courtship behaviors. When two adult dart worms cross paths they wrap their tails around each other, pulling their bodies close together. The neck regions may wrap around one another for additional support and many species contain small ridges on their auricles to increase friction. Dart worm tails contain a series of grooves and pores known collectively as the sperm receptacles or “spermathecae”. These pores release male and female gametes in secretions that can be collected by the partner’s spermathecae. Gravid dart worms remain pregnant for 5–6 days, generating 1,500–2,000 eggs which are held within the terminating body segment. Eggs are dispersed outside of tunnels to incubate in an oxygenated environment. The eggs remain in the superficial layer of soil for an additional day before hatching.</p>
+
+        <h2>Anatomy</h2>
+        <hr class="hr-3">
+             <p>Below is an anatomical figure depicting several key features of general dart worm morphology. The figure is an illustration of a <i>Sputumcuticula spicum</i>, a good model organism for many dart worm body plans. The head of dart worms possesses pseudo-cephalization and is mainly comprised by bundles of nerve cells. The cephalized region is often depressed and flat, usually tapering into some form of point or apex. This shape is optimal for digging through benthic sediment underneath the ocean floor, however some dart worms are an exception to this rule and possess heads in a variety of other shapes and proportions. The mouth is located under the head region housing a contractible proboscis that can extend outward to grab marine snow and debris. Each branch of the proboscis contains tiny filamentous structures that makes it easy to hold debris in its grasp.</p>
+
+             <div class="image-center"><img src="img/diagrams/anatomy_dartworm_02.png" width="100%"></div>
+
+             <p class="figure-text"><b>Figure-1. Diagram of <i>Sputumcuticula spicum</i>.</b> Auricle: Angular portion of head region often packed with nerve cells, Auricular groove: Grooves that allow worms to grasp onto each other during courtship, Pharynx: Houses the proboscis and is the entrence of the esophagus, Esophagus: Lined with salviary glands, Gastrovascular cavity: Site of digestion and circulation, Genital pore: Glandular site that produces male and female gametes, Glandular duct: Primary duct for excretion of gametes, Cloacal tube: Ejects waste, Seminal receptacle: Site for the reception of sperm and egg, Tail fin: Assists in swimming.</p>
+        
+        <h2>Phylogeny</h2>
+        <hr class="hr-3">
+            <p>Dart worms are among the earliest animals to inhabit the ocean of Perditus, sharing a common ancestor with a generic body plan. The closest living relative to dart worms are balloon worms, who share many integral characteristics and differ primarily in anatomical proportion, feeding, and habitats. Although flat and lacking any true segmentation, animals apart of the group buccabucinid share general musculature and similar digestive systems. It is suggested that sea scuttles have inherited a digestive system that is similar to that of dart worms as both organisms consume very little nutritional matter. The key difference is sea scuttles have been observed to preference freshly fallen carcasses on the ocean floor while dart worms must make do with whatever material has sunk into their subterranean habitat.</p>
+
+            <h2>Species</h2>
+            
+                <!-- Species Entry 1 - Adamans -->
+                <div class="figure-text-2">
+                
+                    <div class="image-center"><img src="img/animals/dartworm-02.jpg" width="100%" class="img-borderless"></div>
+    
+                    <h4><i>Bulbocorpus adamnas</i></h4>
+                        <hr class="hr-4">
+                            <p><b>Common Name:</b> Diamond Dart Worm<br>
+                            <b>Auricle Shape:</b> Rhomboidal<br>
+                            <b>Skin Texture:</b> Porous and smooth<br>
+                            <b>Size:</b> 25.4 (10in)</p>
+                        <hr class="hr-4">
+                            <p><b>Description:</b> B. adamans reside in cooler waters in the southern Atanna Ocean. Males are more active then females and emerge from the benthic floor in search of food or mates. The auricle is rhomboidal in shape and the apex can fold over another specimen's auricle during courtship.</p>
+                </div>
+
+                <!-- Species Entry 2 - Pala -->
+                <div class="figure-text-2">
+                
+                    <div class="image-center"><img src="img/animals/dartworm-03.jpg" width="100%" class="img-borderless"></div>
+    
+                    <h4><i>Rugacorpus pala</i></h4>
+                        <hr class="hr-4">
+                            <p><b>Common Name:</b> Paddle Worm<br>
+                            <b>Auricle Shape:</b> Teardrop-shaped<br>
+                            <b>Skin Texture:</b> Damp and course with wrinkles<br>
+                            <b>Size:</b> 25.4 (10in)</p>
+                        <hr class="hr-4">
+                            <p><b>Description:</b> R. pala posses a rough outer dermis containing many wrinkles and folds. A rough folded surface helps the specimen retain water in high-salinity environments where the species is often found. Most specimens reside in shallow estuaries and emerge in large numbers to feast on organic masses of flesh and other washed up carcasses.</p>
+                </div>
+
+    </div>
+</body>
+
+<footer>
+
+    <h1>Site Map:</h1>
+    <div class="footer-grid">
+
+        <div class="footer-link"> <!-- About Links -->
+            <h2><a href="about.html">About</a></h2>
+            <hr class="hr-2">
+            <p><a href="about.html#project">About the Project</a></p>
+            <p><a href="about.html#creator">About the Creator</a></p>
+        </div>
+
+        <div class="footer-link"> <!-- World Links -->
+            <h2><a href="world.html">World</a></h2>
+            <hr class="hr-2">
+            <p><a href="world.html#story">The Story</a></p>
+            <p><a href="world.html#solar-system">The Solar System</a></p>
+            <p><a href="world.html#planet">The Planet</a></p>
+            <p><a href="world.html#geography">Geography</a></p>
+        </div>
+
+        <div class="footer-link"> <!-- Wildlife Links -->
+            <h2><a href="wildlife.html">Wildlife</a></h2>
+            <hr class="hr-2">
+            <p><a href="wildlife.html#organisms">Organisms</a></p>
+            <p><a href="wildlife.html#tree">Evolutionary Tree</a></p>
+            <p><a href="wildlife.html#name">Nomenclature</a></p>
+        </div>
+
+        <div class="footer-link"> <!-- Contact Links -->
+            <h2><a href="about.html#contact">Contact</a></h2>
+            <hr class="hr-2">
+            <p><a href="about.html#contact">Contact Information</a></p>
+            <p><a href="mailto:projectperditus@gmail.com">Email</a></p>
+        </div>
+
+    </div>
+
+    <div class="copyright"><i>&copy Domenic Pennetta 2020 | All Rights Reserved</i></div>
+
+</div>
+
+</footer>
+
+</html>
