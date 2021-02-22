@@ -1,10 +1,12 @@
 <html>
 
 <heading>
-    <title>Wildlife | Dart Worms</title>
-    <meta charset="utf-8">
+    <title>Wildlife_dart_worms</title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Domenic Pennetta">
+    <meta name="description" content="Home to the speculative biology project known as Project Perditus. The project covers many topics, such as speculative evolution, biomechanics, and creature design.">
 </heading>
 
 <body>
